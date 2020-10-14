@@ -1,1 +1,1 @@
-# birdringxD-birdringxd.github.io
+birdringxd.github.io

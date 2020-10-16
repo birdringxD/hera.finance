@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/interface",
-  "description": "HeraSwap",
+  "description": "Uniswap Interface",
   "homepage": "https://birdringxd.github.io",
   "private": true,
   "devDependencies": {
